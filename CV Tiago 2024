@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=“utf-8”>
+<title>CV Tiago Bernaola 2024</title>
+</head>
+<body>
+<header>
+<h1>Tiago Bernaola</h1>
+<h2>Estudiante</h2>
+</header>
+<section id="about">
+<h2>SOBRE MÍ</h2>
+<p> Nací el 15/05/07
+<br>Soy jugador de básquetbol U18
+<br>Me considero una persona activa y responsable
+</p>
+</section>
+<section id="education">
+<h2>ESUDIOS</h2>
+<p>Actualmente cursando el segundo año en la UTU de informática</p>
+</section>
+<section id="idiomas">
+<h2>IDIOMAS</h2>
+<p>
+Español nativo
+<br>Inglés avanzado
+</p>
+</section>
+<section id="contacto">
+<h2>CONTACTO</h2>
+<span class="Cel">Cel 094 343 870</span>
+<br> <span class="email"> Tiagoberdel@gmail.com
+</body>
+</html>
