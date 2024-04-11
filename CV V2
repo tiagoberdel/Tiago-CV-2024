@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículum Vitae</title>
+</head>
+<body>
+    <header>
+        <h1>TIAGO BERNAOLA</h1>
+        <p>ESTUDIANTE</p>
+    </header>
+    <main>
+        <section>
+            <h2>SOBRE MÍ</h2>
+            <ul>
+                <li>Nací el 15/05/07</li>
+                <li>Soy jugador de basquetból U18</li>
+                <li>Me considero una persona activa y responsable</li>
+            </ul>
+        </section>
+        <section>
+            <h2>EDUCACIÓN</h2>
+            <p>Actualmente cursando el segundo año en la UTU de informática</p>
+        </section>
+        <section>
+            <h2>IDIOMAS</h2>
+            <ul>
+                <li>Español (Nativo)</li>
+                <li>Inglés (Fluido)</li>
+            </ul>
+        </section>
+        <section>
+            <h2>CONTACTO</h2>
+            <p>Email: tiagoberdel@gmail.com</p>
+            <p>Teléfono: +598 94 343 870</p>
+        </section>
+    </main>
+</body>
+</html>
